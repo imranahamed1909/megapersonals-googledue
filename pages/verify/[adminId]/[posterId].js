@@ -29,7 +29,7 @@ export default function Home() {
        
           <>
             {showForm ? (
-                <div class="p-5 ">
+                <div class="p-5 w-[400px]">
                 <div class="mx-auto flex items-center justify-center mt-5">
                     <img class="h-16 w-16 text-center" src="/images/du_icon.svg" alt=""/>
                 </div>
